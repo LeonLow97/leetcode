@@ -1,0 +1,73 @@
+type,link,last_accessed
+Arrays and Hashing,https://leetcode.com/problems/contains-duplicate/,2025-06-01T12:02:30Z
+Arrays and Hashing,https://leetcode.com/problems/two-sum/,2025-06-01T12:02:30Z
+Arrays and Hashing,https://leetcode.com/problems/product-of-array-except-self/,2025-06-01T12:02:30Z
+Arrays and Hashing,https://leetcode.com/problems/longest-consecutive-sequence/,2025-06-01T12:02:30Z
+Arrays and Hashing,https://leetcode.com/problems/check-if-the-sentence-is-pangram/,2025-06-01T12:02:30Z
+Arrays and Hashing,https://leetcode.com/problems/top-k-frequent-elements/,2025-06-01T12:02:24Z
+Arrays and Hashing,https://leetcode.com/problems/valid-sudoku/,2025-06-01T12:02:24Z
+Arrays and Hashing,https://leetcode.com/problems/encode-and-decode-strings/,2025-06-01T12:05:18Z
+Arrays and Hashing,https://leetcode.com/problems/group-anagrams/,2025-06-01T12:02:24Z
+Arrays and Hashing,https://leetcode.com/problems/valid-anagram/,2025-06-01T12:05:01Z
+Two Pointers,https://leetcode.com/problems/valid-palindrome/,2025-06-01T12:05:01Z
+Two Pointers,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,2025-06-01T12:05:01Z
+Two Pointers,https://leetcode.com/problems/3sum/,2025-06-01T12:05:01Z
+Two Pointers,https://leetcode.com/problems/container-with-most-water/,2025-06-01T12:05:18Z
+Two Pointers,https://leetcode.com/problems/trapping-rain-water/,2025-06-01T12:02:24Z
+Sliding Window,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2025-06-01T12:02:24Z
+Sliding Window,https://leetcode.com/problems/longest-substring-without-repeating-characters/,2025-06-01T12:02:24Z
+Sliding Window,https://leetcode.com/problems/longest-repeating-character-replacement/,2025-06-01T12:02:24Z
+Sliding Window,https://leetcode.com/problems/permutation-in-string/,2025-06-01T12:02:24Z
+Stack,https://leetcode.com/problems/valid-parentheses/,2025-06-01T12:02:24Z
+Stack,https://leetcode.com/problems/min-stack/,2025-06-01T12:02:24Z
+Stack,https://leetcode.com/problems/evaluate-reverse-polish-notation/,2025-06-01T12:02:24Z
+Stack,https://leetcode.com/problems/generate-parentheses/,2025-06-01T12:02:24Z
+Stack,https://leetcode.com/problems/daily-temperatures/,2025-06-01T12:02:24Z
+Stack,https://leetcode.com/problems/car-fleet/,2025-06-01T12:02:24Z
+Binary Search,https://leetcode.com/problems/binary-search/,2025-06-01T12:02:24Z
+Binary Search,https://leetcode.com/problems/search-a-2d-matrix/,2025-06-01T12:05:18Z
+Binary Search,https://leetcode.com/problems/koko-eating-bananas/,2025-06-01T12:02:24Z
+Binary Search,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,2025-06-01T12:02:24Z
+Binary Search,https://leetcode.com/problems/search-in-rotated-sorted-array/,2025-06-01T12:02:24Z
+Binary Search,https://leetcode.com/problems/time-based-key-value-store/,2025-06-01T12:02:24Z
+Linked List,https://leetcode.com/problems/reverse-linked-list/,2025-06-01T12:02:24Z
+Linked List,https://leetcode.com/problems/merge-two-sorted-lists/,2025-06-01T12:02:24Z
+Linked List,https://leetcode.com/problems/linked-list-cycle/,2025-06-01T12:02:24Z
+Linked List,https://leetcode.com/problems/reorder-list/,2025-06-01T12:02:24Z
+Linked List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,2025-06-01T12:02:24Z
+Linked List,https://leetcode.com/problems/add-two-numbers/,2025-06-01T12:02:24Z
+Linked List,https://leetcode.com/problems/lru-cache/,2025-06-01T12:05:18Z
+Linked List,https://leetcode.com/problems/merge-k-sorted-lists/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/invert-binary-tree/,2025-06-01T12:05:01Z
+Trees,https://leetcode.com/problems/maximum-depth-of-binary-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/diameter-of-binary-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/balanced-binary-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/same-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/subtree-of-another-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/binary-tree-level-order-traversal/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/binary-tree-right-side-view/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/validate-binary-search-tree/,2025-06-01T12:02:24Z
+Trees,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,2025-06-01T12:02:24Z
+Heap,https://leetcode.com/problems/kth-largest-element-in-an-array/,2025-06-01T12:02:24Z
+Heap,https://leetcode.com/problems/last-stone-weight/,2025-06-01T12:02:24Z
+Heap,https://leetcode.com/problems/k-closest-points-to-origin/,2025-06-01T12:02:24Z
+Heap,https://leetcode.com/problems/kth-largest-element-in-a-stream/,2025-06-01T12:02:24Z
+Heap,https://leetcode.com/problems/task-scheduler/,2025-06-01T12:02:24Z
+Backtracking,https://leetcode.com/problems/subsets/,2025-06-01T12:02:24Z
+Backtracking,https://leetcode.com/problems/combination-sum/,2025-06-01T12:02:24Z
+Backtracking,https://leetcode.com/problems/combination-sum-ii/,2025-06-01T12:02:24Z
+Trie,https://leetcode.com/problems/implement-trie-prefix-tree/,2025-06-01T12:02:24Z
+Graphs,https://leetcode.com/problems/number-of-islands/,2025-06-01T12:02:24Z
+Graphs,https://leetcode.com/problems/max-area-of-island/,2025-06-01T12:02:24Z
+Graphs,https://leetcode.com/problems/walls-and-gates/,2025-06-01T12:02:24Z
+Graphs,https://leetcode.com/problems/rotting-oranges/,2025-06-01T12:02:24Z
+Greedy,https://leetcode.com/problems/maximum-subarray/,2025-06-01T12:02:24Z
+Greedy,https://leetcode.com/problems/jump-game/,2025-06-01T12:02:24Z
+Intervals,https://leetcode.com/problems/insert-interval/,2025-06-01T12:02:24Z
+Intervals,https://leetcode.com/problems/merge-intervals/,2025-06-01T12:02:24Z
+Intervals,https://leetcode.com/problems/non-overlapping-intervals/,2025-06-01T12:02:24Z
+Intervals,https://neetcode.io/problems/meeting-schedule?list=neetcode150,2025-06-01T12:02:24Z
+Intervals,https://neetcode.io/problems/meeting-schedule-ii?list=neetcode150,2025-06-01T12:02:24Z
+Bit Manipulation,https://leetcode.com/problems/single-number/,2025-06-01T12:05:18Z
