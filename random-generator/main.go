@@ -1,7 +1,7 @@
 package main
 
 const (
-	filePath      = SHOPEE
+	filePath      = TEMP
 	noOfQuestions = 10
 )
 
