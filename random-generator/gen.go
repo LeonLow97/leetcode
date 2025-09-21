@@ -199,16 +199,6 @@ func updateQuestionsMarkdown(questions []Question, readmePath string) error {
 	}
 	sort.Strings(typeOrder)
 
-	// Build summary table
-	summary := "\n| Type | No Of Question |\n|------|----------------|\n"
-	total := 0
-	for _, t := range typeOrder {
-		count := len(grouped[t])
-		summary += fmt.Sprintf("| %s | %d |\n", t, count)
-		total += count
-	}
-	summary += fmt.Sprintf("| **Total** | **%d** |\n", total)
-
 	// Build new tables
 	var tables string
 	for _, qType := range typeOrder {
@@ -234,7 +224,7 @@ func updateQuestionsMarkdown(questions []Question, readmePath string) error {
 	}
 
 	// Write back to README.md
-	newContent := header + summary + tables
+	newContent := header + tables
 	return os.WriteFile(readmePath, []byte(newContent), 0644)
 }
 

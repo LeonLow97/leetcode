@@ -10,6 +10,7 @@ func main() {
 
 	questions, _ := readQuestions()
 	_ = updateQuestionsMarkdown(questions, "README.md")
+	_ = updateQuestionsMarkdown(questions, "../README.md")
 }
 
 const (
