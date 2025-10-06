@@ -1,0 +1,21 @@
+# 45 - https://leetcode.com/problems/jump-game-ii/
+
+# Time: O(n)
+# Space: O(1)
+class Solution:
+    def jump(self, nums: List[int]) -> int:
+        res = 0
+        left, right = 0, 0
+
+        while right < len(nums) - 1:
+            furthest = 0
+
+            for i in range(left, right+1):
+                furthest = max(furthest, i + nums[i])
+
+            left = right + 1
+            right = furthest
+
+            res += 1
+
+        return res
